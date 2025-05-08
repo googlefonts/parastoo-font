@@ -73,6 +73,14 @@ value = (
 {
 name = vendorID;
 value = "    ";
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
 }
 );
 date = "2015-05-17 08:12:36 +0000";
