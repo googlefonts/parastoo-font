@@ -19,6 +19,25 @@ ref = "alefMaksura-ar";
 }
 );
 width = 1553;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (649.458,869.11);
+},
+{
+name = "Anchor-7";
+pos = (700.003,-784.57);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "alefMaksura-ar";
+}
+);
+width = 1553;
 }
 );
 unicode = 1740;

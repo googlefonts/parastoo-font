@@ -25,6 +25,31 @@ ref = "madda-ar";
 }
 );
 width = 574;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (269.626,1814.06);
+},
+{
+name = "Anchor-7";
+pos = (281.1,-186.255);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (60,0);
+ref = "alef-ar";
+scale = (1,0.89);
+},
+{
+pos = (-195.008,-147.24);
+ref = "madda-ar";
+}
+);
+width = 574;
 }
 );
 unicode = 1570;

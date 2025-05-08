@@ -25,6 +25,31 @@ ref = "reh-ar";
 }
 );
 width = 3141;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (1706.38,-372.366);
+ref = arabic_2dots;
+},
+{
+pos = (1905.66,0);
+ref = "alefMaksura-ar.init";
+},
+{
+ref = "lam-ar";
+},
+{
+pos = (1359.92,0);
+ref = "alef-ar.fina";
+},
+{
+pos = (2296.64,0);
+ref = "reh-ar";
+}
+);
+width = 3141;
 }
 );
 unicode = 65020;

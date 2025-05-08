@@ -24,6 +24,30 @@ ref = NameMe.306;
 }
 );
 width = 538;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (205.745,2021.33);
+},
+{
+name = "Anchor-7";
+pos = (341.695,-248.809);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-206.409,-439.564);
+ref = "highhamza-ar";
+},
+{
+pos = (0,-3);
+ref = NameMe.306;
+}
+);
+width = 538;
 }
 );
 }

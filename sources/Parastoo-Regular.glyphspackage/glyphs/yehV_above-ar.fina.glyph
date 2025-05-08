@@ -13,6 +13,19 @@ ref = "alefMaksura-ar.fina";
 }
 );
 width = 1581;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (71,-963);
+ref = "vabove-ar";
+},
+{
+ref = "alefMaksura-ar.fina";
+}
+);
+width = 1581;
 }
 );
 }

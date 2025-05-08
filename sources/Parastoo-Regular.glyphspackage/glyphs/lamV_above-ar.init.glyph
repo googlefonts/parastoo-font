@@ -13,6 +13,19 @@ ref = "lam-ar.init";
 }
 );
 width = 569;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-281,197);
+ref = "vabove-ar";
+},
+{
+ref = "lam-ar.init";
+}
+);
+width = 569;
 }
 );
 }

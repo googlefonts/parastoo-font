@@ -23,6 +23,29 @@ ref = "reh-ar.fina";
 }
 );
 width = 882;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (476.748,1407.62);
+},
+{
+name = "Anchor-7";
+pos = (341.096,-713.978);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (185.451,763.127);
+ref = arabic_3dots;
+},
+{
+ref = "reh-ar.fina";
+}
+);
+width = 882;
 }
 );
 }

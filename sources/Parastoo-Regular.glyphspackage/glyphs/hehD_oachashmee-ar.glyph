@@ -19,6 +19,25 @@ ref = "heh-ar.init";
 }
 );
 width = 1221;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (567.108,1610.36);
+},
+{
+name = "Anchor-7";
+pos = (532.314,-225.487);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "heh-ar.init";
+}
+);
+width = 1221;
 }
 );
 unicode = 1726;

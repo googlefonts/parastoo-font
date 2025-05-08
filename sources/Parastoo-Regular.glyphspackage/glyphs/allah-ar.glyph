@@ -39,6 +39,45 @@ ref = "alef-ar";
 }
 );
 width = 2699;
+},
+{
+anchors = (
+{
+name = "Anchor-6";
+pos = (327.305,-227.747);
+},
+{
+name = "Anchor-9";
+pos = (580.818,1280.25);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "heh-ar.fina";
+},
+{
+pos = (1676,0);
+ref = NameMe.303;
+},
+{
+pos = (1032,0);
+ref = NameMe.304;
+},
+{
+pos = (545,-115);
+ref = "alefabove-ar";
+},
+{
+pos = (771,-116);
+ref = "shadda-ar";
+},
+{
+pos = (2225,0);
+ref = "alef-ar";
+}
+);
+width = 2699;
 }
 );
 }

@@ -23,6 +23,29 @@ ref = "lam_alef-ar";
 }
 );
 width = 1254;
+},
+{
+anchors = (
+{
+name = "Anchor-6";
+pos = (1002.48,-244.591);
+},
+{
+name = "Anchor-9";
+pos = (157.56,1630.76);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-37.958,-2527.99);
+ref = "highhamza-ar";
+},
+{
+ref = "lam_alef-ar";
+}
+);
+width = 1254;
 }
 );
 }

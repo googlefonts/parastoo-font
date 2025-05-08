@@ -13,6 +13,19 @@ ref = "fehDotless-ar.init";
 }
 );
 width = 788;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (88,1219);
+ref = arabic_3dots;
+},
+{
+ref = "fehDotless-ar.init";
+}
+);
+width = 788;
 }
 );
 }

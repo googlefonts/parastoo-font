@@ -32,6 +32,38 @@ ref = "shadda-ar";
 }
 );
 width = 4;
+},
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (548.291,1784.33);
+},
+{
+name = "_Anchor-1";
+pos = (618.792,1138.03);
+},
+{
+name = "_Anchor-10";
+pos = (618.792,1138.03);
+},
+{
+name = "_Anchor-9";
+pos = (618.792,1138.03);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (30.303,118.226);
+ref = "fatha-ar";
+},
+{
+pos = (12.303,-333.307);
+ref = "shadda-ar";
+}
+);
+width = 4;
 }
 );
 }

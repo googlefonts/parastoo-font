@@ -13,6 +13,19 @@ ref = "reh-ar";
 }
 );
 width = 794;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-249,-2429);
+ref = "vabove-ar";
+},
+{
+ref = "reh-ar";
+}
+);
+width = 794;
 }
 );
 unicode = 1685;

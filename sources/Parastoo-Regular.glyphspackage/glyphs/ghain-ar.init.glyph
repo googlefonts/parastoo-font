@@ -23,6 +23,29 @@ ref = "ain-ar.init";
 }
 );
 width = 1128;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (559.413,1618.93);
+},
+{
+name = "Anchor-7";
+pos = (516.566,-245.979);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (448.507,1198.51);
+ref = arabic_dot;
+},
+{
+ref = "ain-ar.init";
+}
+);
+width = 1128;
 }
 );
 }

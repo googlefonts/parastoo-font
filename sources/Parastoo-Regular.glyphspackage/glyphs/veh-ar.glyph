@@ -13,6 +13,19 @@ ref = "fehDotless-ar";
 }
 );
 width = 1753;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (1028,1229);
+ref = arabic_3dots;
+},
+{
+ref = "fehDotless-ar";
+}
+);
+width = 1753;
 }
 );
 unicode = 1700;

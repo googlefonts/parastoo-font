@@ -28,6 +28,34 @@ ref = "highhamza-ar";
 }
 );
 width = 0;
+},
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (649,2288);
+},
+{
+name = "_Anchor-1";
+pos = (672,1684);
+},
+{
+name = "_Anchor-10";
+pos = (672,1684);
+},
+{
+name = "_Anchor-9";
+pos = (672,1684);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (255,-138);
+ref = "highhamza-ar";
+}
+);
+width = 0;
 }
 );
 unicode = 1620;

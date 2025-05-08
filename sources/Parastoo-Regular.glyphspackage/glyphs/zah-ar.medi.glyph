@@ -23,6 +23,29 @@ ref = "tah-ar.medi";
 }
 );
 width = 1390;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (268.146,1637.21);
+},
+{
+name = "Anchor-7";
+pos = (480.623,-229.625);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (726.127,1143.55);
+ref = arabic_dot;
+},
+{
+ref = "tah-ar.medi";
+}
+);
+width = 1390;
 }
 );
 }

@@ -9,6 +9,15 @@ ref = "three-ar";
 }
 );
 width = 1275;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "three-ar";
+}
+);
+width = 1275;
 }
 );
 unicode = 1779;

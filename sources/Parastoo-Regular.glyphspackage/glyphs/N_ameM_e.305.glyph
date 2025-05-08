@@ -11,6 +11,17 @@ scale = (0.99,0.91);
 }
 );
 width = 464;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (2.606,-1.516);
+ref = "alef-ar";
+scale = (0.99,0.91);
+}
+);
+width = 464;
 }
 );
 }

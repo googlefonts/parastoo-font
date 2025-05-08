@@ -400,6 +400,137 @@ pos = -410;
 }
 );
 name = Regular;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 2350;
+},
+{
+name = typoDescender;
+value = -1200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2350;
+},
+{
+name = hheaDescender;
+value = -1200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2350;
+},
+{
+name = winDescent;
+value = 1200;
+},
+{
+name = strikeoutPosition;
+value = 530;
+},
+{
+name = strikeoutSize;
+value = 102;
+},
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -500;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1331;
+},
+{
+name = subscriptYOffset;
+value = 286;
+},
+{
+name = subscriptYSize;
+value = 1433;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1331;
+},
+{
+name = superscriptYOffset;
+value = 983;
+},
+{
+name = superscriptYSize;
+value = 1433;
+}
+);
+guides = (
+{
+pos = (1024,614.5);
+},
+{
+pos = (1024,846.771);
+},
+{
+pos = (1024,1530);
+},
+{
+pos = (1024,514.651);
+},
+{
+pos = (1024,872.042);
+},
+{
+pos = (1024,1575);
+},
+{
+pos = (1024,230);
+},
+{
+pos = (1024,1404.04);
+}
+);
+iconName = Bold;
+id = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+metricValues = (
+{
+pos = 1638;
+},
+{
+pos = 1638;
+},
+{
+pos = 1082;
+},
+{
+},
+{
+pos = -410;
+},
+{
+}
+);
+name = Bold;
 }
 );
 instances = (

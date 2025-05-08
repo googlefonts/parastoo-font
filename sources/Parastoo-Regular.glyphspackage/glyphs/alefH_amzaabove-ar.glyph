@@ -25,6 +25,31 @@ ref = "highhamza-ar";
 }
 );
 width = 464;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (214.745,2036.33);
+},
+{
+name = "Anchor-7";
+pos = (220.864,-224.159);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (1,0);
+ref = "alef-ar";
+scale = (1,0.89);
+},
+{
+pos = (-206.409,-439.564);
+ref = "highhamza-ar";
+}
+);
+width = 464;
 }
 );
 unicode = 1571;

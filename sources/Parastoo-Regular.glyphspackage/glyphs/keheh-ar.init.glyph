@@ -19,6 +19,25 @@ ref = "kaf-ar.init";
 }
 );
 width = 957;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (183.184,1443.47);
+},
+{
+name = "Anchor-7";
+pos = (314.687,-250.871);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "kaf-ar.init";
+}
+);
+width = 957;
 }
 );
 }

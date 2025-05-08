@@ -13,6 +13,19 @@ ref = "yehFarsi-ar.medi";
 }
 );
 width = 793;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-118,-622);
+ref = "vabove-ar";
+},
+{
+ref = "yehFarsi-ar.medi";
+}
+);
+width = 793;
 }
 );
 }

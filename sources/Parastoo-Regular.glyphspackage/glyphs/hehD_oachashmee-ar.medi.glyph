@@ -19,6 +19,25 @@ ref = "heh-ar.medi";
 }
 );
 width = 1016;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (541.648,1135.04);
+},
+{
+name = "Anchor-7";
+pos = (587.16,-709.603);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = "heh-ar.medi";
+}
+);
+width = 1016;
 }
 );
 }

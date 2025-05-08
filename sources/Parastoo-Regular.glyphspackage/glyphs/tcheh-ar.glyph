@@ -23,6 +23,30 @@ ref = "hah-ar";
 }
 );
 width = 1318;
+},
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (602.798,1120.94);
+},
+{
+name = "Anchor-7";
+pos = (644.792,-826.821);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (484.775,-20.366);
+ref = arabic_3dots_a;
+scale = (0.9,0.9);
+},
+{
+ref = "hah-ar";
+}
+);
+width = 1318;
 }
 );
 unicode = 1670;
