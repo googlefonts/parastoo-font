@@ -1,78 +1,17 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 customParameters = (
-{
-name = licenses;
-value = "SIL Open Font License 1.1
-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved.";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL_web";
-},
-{
-name = preferredFamilyNames;
-value = Parastoo;
-},
-{
-name = uniqueID;
-value = "Parastoo Regular";
-},
-{
-name = versionString;
-value = "Version 2.0.1";
-},
-{
-name = codePageRanges;
-value = (
-"1252",
-"1256",
-"864",
-"708"
-);
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = panose;
-value = (
-2,
-11,
-6,
-3,
-3,
-8,
-4,
-2,
-2,
-4
-);
-},
 {
 name = fsType;
 value = (
 );
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-13,
-31,
-63,
-67
-);
-},
-{
-name = vendorID;
-value = "    ";
 },
 {
 name = "Write lastChange";
@@ -83,7 +22,7 @@ name = "Write DisplayStrings";
 value = 0;
 }
 );
-date = "2015-05-17 08:12:36 +0000";
+date = "2025-05-08 11:40:17 +0000";
 familyName = Parastoo;
 featurePrefixes = (
 {
@@ -98,9 +37,9 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature fina;
-feature init;
+code = "feature init;
 feature medi;
+feature fina;
 ";
 tag = aalt;
 },
@@ -290,6 +229,9 @@ tag = rlig;
 );
 fontMaster = (
 {
+axesValues = (
+400
+);
 customParameters = (
 {
 name = typoAscender;
@@ -392,6 +334,7 @@ pos = 1638;
 pos = 1082;
 },
 {
+over = -10;
 },
 {
 pos = -410;
@@ -402,6 +345,9 @@ pos = -410;
 name = Regular;
 },
 {
+axesValues = (
+700
+);
 customParameters = (
 {
 name = typoAscender;
@@ -523,6 +469,7 @@ pos = 1638;
 pos = 1082;
 },
 {
+over = -10;
 },
 {
 pos = -410;
@@ -535,40 +482,46 @@ name = Bold;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptWeightName;
-value = Regular;
-}
+axesValues = (
+400
 );
 instanceInterpolations = {
 m001 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = Parastoo;
 },
 {
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = Parastoo;
-}
+axesValues = (
+500
 );
+instanceInterpolations = {
+"D346AEB9-DD6D-429C-AFEE-90B4948468D3" = 0.33333;
+m001 = 0.66667;
+};
+name = Medium;
+weightClass = 500;
 },
 {
-key = styleMapFamilyNames;
-values = (
+axesValues = (
+600
+);
+instanceInterpolations = {
+"D346AEB9-DD6D-429C-AFEE-90B4948468D3" = 0.66667;
+m001 = 0.33333;
+};
+name = SemiBold;
+weightClass = 600;
+},
 {
-language = dflt;
-value = "Parastoo Regular";
-}
+axesValues = (
+700
 );
-}
-);
+instanceInterpolations = {
+"D346AEB9-DD6D-429C-AFEE-90B4948468D3" = 1;
+};
+isBold = 1;
+name = Bold;
+weightClass = 700;
 }
 );
 metrics = (
@@ -597,7 +550,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved.
+value = "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)
 Based on DejaVu font.
 Non-Arabic(Latin) glyphs and data are imported from Lora font under the Open Font License.";
 }
@@ -608,14 +561,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "SIL Open Font License 1.1
-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL_web";
+value = "https://scripts.sil.org/ofl";
 },
 {
 key = manufacturers;
@@ -625,18 +577,6 @@ language = dflt;
 value = "Saber Rastikerdar (saber.rastikerdar@gmail.com)";
 }
 );
-},
-{
-key = uniqueID;
-value = "Parastoo Regular";
-},
-{
-key = vendorID;
-value = "    ";
-},
-{
-key = versionString;
-value = "Version 2.0.1";
 }
 );
 settings = {
@@ -646,6 +586,6 @@ unitsPerEm = 2048;
 userData = {
 UFOFormat = 3;
 };
-versionMajor = 2;
+versionMajor = 3;
 versionMinor = 0;
 }
