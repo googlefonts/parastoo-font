@@ -4,12 +4,12 @@ layers = (
 {
 anchors = (
 {
-name = "Anchor-10";
-pos = (583.659,1033.03);
+name = bottom;
+pos = (215.123,-858.52);
 },
 {
-name = "Anchor-7";
-pos = (215.123,-858.52);
+name = top;
+pos = (583.659,1033.03);
 }
 );
 background = {
@@ -132,12 +132,12 @@ width = 1056;
 {
 anchors = (
 {
-name = "Anchor-10";
-pos = (583.659,1033.03);
+name = bottom;
+pos = (215.123,-858.52);
 },
 {
-name = "Anchor-7";
-pos = (215.123,-858.52);
+name = top;
+pos = (583.659,1033.03);
 }
 );
 background = {
