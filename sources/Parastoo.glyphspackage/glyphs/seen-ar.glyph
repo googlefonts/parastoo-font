@@ -1,5 +1,6 @@
 {
 glyphname = "seen-ar";
+kernRight = "bowl-ar.init";
 layers = (
 {
 anchors = (

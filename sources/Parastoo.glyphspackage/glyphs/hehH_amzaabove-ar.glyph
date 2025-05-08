@@ -1,5 +1,6 @@
 {
 glyphname = "hehHamzaabove-ar";
+kernRight = "hah-ar";
 layers = (
 {
 anchors = (

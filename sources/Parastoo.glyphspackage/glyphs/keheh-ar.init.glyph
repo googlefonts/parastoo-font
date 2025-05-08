@@ -1,5 +1,6 @@
 {
 glyphname = "keheh-ar.init";
+kernRight = "kaf-ar.init";
 layers = (
 {
 anchors = (

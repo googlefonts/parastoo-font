@@ -1,5 +1,6 @@
 {
 glyphname = "zah-ar";
+kernRight = "tah-ar.init";
 layers = (
 {
 anchors = (

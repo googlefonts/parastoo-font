@@ -1,5 +1,6 @@
 {
 glyphname = "beh-ar";
+kernRight = "bowl-ar.init";
 layers = (
 {
 anchors = (

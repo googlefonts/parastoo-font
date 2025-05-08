@@ -1,5 +1,6 @@
 {
 glyphname = "yehVabove-ar";
+kernRight = "yeh-ar";
 layers = (
 {
 layerId = m001;

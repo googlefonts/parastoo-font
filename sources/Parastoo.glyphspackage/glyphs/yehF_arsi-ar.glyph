@@ -1,5 +1,6 @@
 {
 glyphname = "yehFarsi-ar";
+kernRight = "yeh-ar";
 layers = (
 {
 anchors = (

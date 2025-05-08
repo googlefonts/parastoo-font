@@ -1,5 +1,6 @@
 {
 glyphname = "hah-ar.init";
+kernRight = "hah-ar.init";
 layers = (
 {
 anchors = (

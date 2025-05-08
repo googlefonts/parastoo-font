@@ -1,5 +1,6 @@
 {
 glyphname = "feh-ar";
+kernRight = "feh-ar.init";
 layers = (
 {
 anchors = (

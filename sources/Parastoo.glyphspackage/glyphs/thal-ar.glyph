@@ -1,5 +1,6 @@
 {
 glyphname = "thal-ar";
+kernRight = "dal-ar";
 layers = (
 {
 anchors = (

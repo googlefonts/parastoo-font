@@ -1,5 +1,7 @@
 {
 glyphname = "zain-ar";
+kernLeft = "reh-ar";
+kernRight = "reh-ar";
 layers = (
 {
 anchors = (

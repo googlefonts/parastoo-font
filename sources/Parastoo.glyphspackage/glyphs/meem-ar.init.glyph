@@ -1,5 +1,6 @@
 {
 glyphname = "meem-ar.init";
+kernRight = "meem-ar.init";
 layers = (
 {
 anchors = (

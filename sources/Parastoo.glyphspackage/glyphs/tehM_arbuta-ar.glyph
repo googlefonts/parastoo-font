@@ -1,5 +1,6 @@
 {
 glyphname = "tehMarbuta-ar";
+kernRight = "hah-ar";
 layers = (
 {
 anchors = (

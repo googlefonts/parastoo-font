@@ -1,5 +1,6 @@
 {
 glyphname = "veh-ar";
+kernRight = "feh-ar.init";
 layers = (
 {
 layerId = m001;

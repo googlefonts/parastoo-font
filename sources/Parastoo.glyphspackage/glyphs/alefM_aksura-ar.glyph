@@ -1,5 +1,6 @@
 {
 glyphname = "alefMaksura-ar";
+kernRight = "yeh-ar";
 layers = (
 {
 anchors = (

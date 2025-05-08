@@ -1,5 +1,6 @@
 {
 glyphname = "peh-ar";
+kernRight = "bowl-ar.init";
 layers = (
 {
 anchors = (

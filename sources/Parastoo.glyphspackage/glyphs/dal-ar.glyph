@@ -1,5 +1,6 @@
 {
 glyphname = "dal-ar";
+kernRight = "dal-ar";
 layers = (
 {
 anchors = (

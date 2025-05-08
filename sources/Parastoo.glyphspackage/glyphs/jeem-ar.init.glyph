@@ -1,5 +1,6 @@
 {
 glyphname = "jeem-ar.init";
+kernRight = "hah-ar.init";
 layers = (
 {
 anchors = (

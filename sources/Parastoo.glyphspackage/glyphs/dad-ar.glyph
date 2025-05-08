@@ -1,5 +1,6 @@
 {
 glyphname = "dad-ar";
+kernRight = "tah-ar.init";
 layers = (
 {
 anchors = (

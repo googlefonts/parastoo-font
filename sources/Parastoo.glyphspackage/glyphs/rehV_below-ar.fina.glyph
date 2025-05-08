@@ -1,5 +1,6 @@
 {
 glyphname = "rehVbelow-ar.fina";
+kernLeft = "reh-ar";
 layers = (
 {
 layerId = m001;
