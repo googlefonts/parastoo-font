@@ -1,0 +1,18 @@
+{
+glyphname = "oe-ar.fina";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-170,-575);
+ref = "vabove-ar";
+},
+{
+ref = "waw-ar.fina";
+}
+);
+width = 843;
+}
+);
+}

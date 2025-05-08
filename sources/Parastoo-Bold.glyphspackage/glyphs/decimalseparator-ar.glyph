@@ -1,0 +1,21 @@
+{
+glyphname = "decimalseparator-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(807.515,602.972,l),
+(236.417,-429.224,l),
+(46.217,-429.224,l),
+(619.617,603.107,l)
+);
+}
+);
+width = 873;
+}
+);
+unicode = 1643;
+}

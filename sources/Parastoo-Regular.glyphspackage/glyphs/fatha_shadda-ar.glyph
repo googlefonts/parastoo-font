@@ -1,0 +1,37 @@
+{
+glyphname = "fatha_shadda-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (564.633,1744.44);
+},
+{
+name = "_Anchor-1";
+pos = (618.701,1055.33);
+},
+{
+name = "_Anchor-10";
+pos = (618.701,1055.33);
+},
+{
+name = "_Anchor-9";
+pos = (618.701,1055.33);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-3.355,-118.16);
+ref = "shadda-ar";
+},
+{
+pos = (66.226,-350.343);
+ref = "fatha-ar";
+}
+);
+width = 4;
+}
+);
+}

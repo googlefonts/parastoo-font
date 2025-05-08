@@ -1,0 +1,29 @@
+{
+glyphname = "tehMarbuta-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (381.148,1405.14);
+},
+{
+name = "Anchor-7";
+pos = (384.864,-231.307);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (77,1026.2);
+ref = arabic_2dots;
+},
+{
+ref = "heh-ar";
+}
+);
+width = 816;
+}
+);
+unicode = 1577;
+}

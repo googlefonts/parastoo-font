@@ -1,0 +1,18 @@
+{
+glyphname = NameMe.65574;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (399,197);
+ref = "vabove-ar";
+},
+{
+ref = "lam_alef-ar.fina";
+}
+);
+width = 1325;
+}
+);
+}

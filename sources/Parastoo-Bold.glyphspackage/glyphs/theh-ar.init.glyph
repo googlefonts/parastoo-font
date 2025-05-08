@@ -1,0 +1,28 @@
+{
+glyphname = "theh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (307.023,1584.34);
+},
+{
+name = "Anchor-7";
+pos = (273.187,-223.854);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "alefMaksura-ar.init";
+},
+{
+pos = (10,1005.15);
+ref = arabic_3dots;
+}
+);
+width = 674;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = "oneFarsi-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "one-ar";
+}
+);
+width = 742;
+}
+);
+unicode = 1777;
+}

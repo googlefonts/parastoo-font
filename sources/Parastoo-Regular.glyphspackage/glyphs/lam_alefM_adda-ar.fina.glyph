@@ -1,0 +1,28 @@
+{
+glyphname = "lam_alefMadda-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-6";
+pos = (342.059,-247.961);
+},
+{
+name = "Anchor-9";
+pos = (274.624,1880.94);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-168.183,-99.775);
+ref = "madda-ar";
+},
+{
+ref = "lam_alef-ar.fina";
+}
+);
+width = 1325;
+}
+);
+}

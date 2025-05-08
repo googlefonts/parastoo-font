@@ -1,0 +1,28 @@
+{
+glyphname = "lam_alefHamzabelow-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-6";
+pos = (406.615,-738.806);
+},
+{
+name = "Anchor-9";
+pos = (993.97,1638.48);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-37.958,-2527.99);
+ref = "highhamza-ar";
+},
+{
+ref = "lam_alef-ar.fina";
+}
+);
+width = 1325;
+}
+);
+}

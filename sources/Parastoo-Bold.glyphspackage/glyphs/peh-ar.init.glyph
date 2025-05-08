@@ -1,0 +1,28 @@
+{
+glyphname = "peh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (314.465,1063.96);
+},
+{
+name = "Anchor-7";
+pos = (245.944,-812.925);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "alefMaksura-ar.init";
+},
+{
+pos = (-84.465,-448.507);
+ref = arabic_3dots_a;
+}
+);
+width = 669;
+}
+);
+}

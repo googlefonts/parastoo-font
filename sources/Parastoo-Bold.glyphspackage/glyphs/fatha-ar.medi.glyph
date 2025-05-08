@@ -1,0 +1,36 @@
+{
+glyphname = "fatha-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (412,1593);
+},
+{
+name = "Anchor-7";
+pos = (385,-134);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (524,0);
+ref = "kashida-ar";
+},
+{
+pos = (257,0);
+ref = "kashida-ar";
+},
+{
+ref = "kashida-ar";
+},
+{
+pos = (-108,-174);
+ref = "fatha-ar";
+}
+);
+width = 769;
+}
+);
+}

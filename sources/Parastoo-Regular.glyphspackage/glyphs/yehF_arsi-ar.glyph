@@ -1,0 +1,25 @@
+{
+glyphname = "yehFarsi-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (649.458,869.11);
+},
+{
+name = "Anchor-7";
+pos = (700.003,-784.57);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "alefMaksura-ar";
+}
+);
+width = 1553;
+}
+);
+unicode = 1740;
+}

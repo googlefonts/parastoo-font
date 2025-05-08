@@ -1,0 +1,18 @@
+{
+glyphname = "lamVabove-ar.medi";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-231,197);
+ref = "vabove-ar";
+},
+{
+ref = "lam-ar.medi";
+}
+);
+width = 675;
+}
+);
+}

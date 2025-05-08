@@ -1,0 +1,19 @@
+{
+glyphname = "yehVabove-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (24,-743);
+ref = "vabove-ar";
+},
+{
+ref = "alefMaksura-ar";
+}
+);
+width = 1553;
+}
+);
+unicode = 1742;
+}

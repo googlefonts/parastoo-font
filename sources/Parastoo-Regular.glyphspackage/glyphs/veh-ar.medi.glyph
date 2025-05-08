@@ -1,0 +1,18 @@
+{
+glyphname = "veh-ar.medi";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (216,974);
+ref = arabic_3dots;
+},
+{
+ref = "fehDotless-ar.medi";
+}
+);
+width = 965;
+}
+);
+}

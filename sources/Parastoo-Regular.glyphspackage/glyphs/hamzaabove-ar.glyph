@@ -1,0 +1,34 @@
+{
+glyphname = "hamzaabove-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (649,2288);
+},
+{
+name = "_Anchor-1";
+pos = (672,1684);
+},
+{
+name = "_Anchor-10";
+pos = (672,1684);
+},
+{
+name = "_Anchor-9";
+pos = (672,1684);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (255,-138);
+ref = "highhamza-ar";
+}
+);
+width = 0;
+}
+);
+unicode = 1620;
+}

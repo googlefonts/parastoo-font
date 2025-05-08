@@ -1,0 +1,28 @@
+{
+glyphname = "beh-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (890.891,1022.8);
+},
+{
+name = "Anchor-7";
+pos = (897.322,-695.729);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (766.654,-538.451);
+ref = arabic_dot;
+},
+{
+ref = "behDotless-ar.fina";
+}
+);
+width = 1968;
+}
+);
+}

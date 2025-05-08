@@ -1,0 +1,29 @@
+{
+glyphname = arabic_2dots;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(592,125,l),
+(460,-7,l),
+(328,125,l),
+(460,257,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,125,l),
+(163,-7,l),
+(31,125,l),
+(163,257,l)
+);
+}
+);
+width = 622;
+}
+);
+}

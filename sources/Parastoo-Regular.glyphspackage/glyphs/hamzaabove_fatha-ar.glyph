@@ -1,0 +1,37 @@
+{
+glyphname = "hamzaabove_fatha-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (539.249,1981.03);
+},
+{
+name = "_Anchor-1";
+pos = (637.936,1186.95);
+},
+{
+name = "_Anchor-10";
+pos = (637.936,1186.95);
+},
+{
+name = "_Anchor-9";
+pos = (637.936,1186.95);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (27.512,355.926);
+ref = "fatha-ar";
+},
+{
+pos = (-52.171,-506.662);
+ref = "hamzaabove-ar";
+}
+);
+width = 0;
+}
+);
+}

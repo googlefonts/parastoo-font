@@ -1,0 +1,28 @@
+{
+glyphname = "zah-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (268.146,1637.21);
+},
+{
+name = "Anchor-7";
+pos = (480.623,-229.625);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (726.127,1063.55);
+ref = arabic_dot;
+},
+{
+ref = "tah-ar.init";
+}
+);
+width = 1314;
+}
+);
+}

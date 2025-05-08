@@ -1,0 +1,25 @@
+{
+glyphname = "ae-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (414.888,1472.29);
+},
+{
+name = "Anchor-7";
+pos = (428.503,-312.464);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "heh-ar";
+}
+);
+width = 816;
+}
+);
+unicode = 1749;
+}

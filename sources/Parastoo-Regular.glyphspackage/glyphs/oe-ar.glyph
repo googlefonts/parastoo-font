@@ -1,0 +1,19 @@
+{
+glyphname = "oe-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-170,-575);
+ref = "vabove-ar";
+},
+{
+ref = "waw-ar";
+}
+);
+width = 807;
+}
+);
+unicode = 1734;
+}

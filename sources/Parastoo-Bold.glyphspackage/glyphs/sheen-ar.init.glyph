@@ -1,0 +1,28 @@
+{
+glyphname = "sheen-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (899.248,1494.86);
+},
+{
+name = "Anchor-7";
+pos = (846.234,-206.803);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (616.367,869.648);
+ref = arabic_3dots;
+},
+{
+ref = "seen-ar.init";
+}
+);
+width = 1609;
+}
+);
+}

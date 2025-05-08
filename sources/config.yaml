@@ -1,0 +1,5 @@
+sources:
+  - Parastoo-Regular.glyphspackage
+  - Parastoo-Bold.glyphspackage
+buildOTF: false
+buildWebfont: false

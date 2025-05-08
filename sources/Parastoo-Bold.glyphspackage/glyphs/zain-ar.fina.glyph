@@ -1,0 +1,28 @@
+{
+glyphname = "zain-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (505.361,1303.15);
+},
+{
+name = "Anchor-7";
+pos = (341.096,-713.978);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (395.845,841.538);
+ref = arabic_dot;
+},
+{
+ref = "reh-ar.fina";
+}
+);
+width = 882;
+}
+);
+}

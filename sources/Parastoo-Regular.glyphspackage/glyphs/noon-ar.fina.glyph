@@ -1,0 +1,28 @@
+{
+glyphname = "noon-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (633.211,885.461);
+},
+{
+name = "Anchor-7";
+pos = (636.427,-790.57);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (524.133,476.771);
+ref = arabic_dot;
+},
+{
+ref = "noonghunna-ar.fina";
+}
+);
+width = 1479;
+}
+);
+}

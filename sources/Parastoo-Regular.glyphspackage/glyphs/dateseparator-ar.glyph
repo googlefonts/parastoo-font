@@ -1,0 +1,21 @@
+{
+glyphname = "dateseparator-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,-199,l),
+(55,-168,l),
+(611,1457,l),
+(713,1426,l)
+);
+}
+);
+width = 828;
+}
+);
+unicode = 1549;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "rehVbelow-ar.fina";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-249,-2409);
+ref = "vabove-ar";
+},
+{
+ref = "reh-ar.fina";
+}
+);
+width = 882;
+}
+);
+}

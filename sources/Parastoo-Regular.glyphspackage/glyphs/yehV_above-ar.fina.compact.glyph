@@ -1,0 +1,18 @@
+{
+glyphname = "yehVabove-ar.fina.compact";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (71,-1043);
+ref = "vabove-ar";
+},
+{
+ref = "yehFarsi-ar.fina.compact";
+}
+);
+width = 1487;
+}
+);
+}

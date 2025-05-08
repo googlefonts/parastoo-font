@@ -1,0 +1,28 @@
+{
+glyphname = "noon-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (276.055,1327.86);
+},
+{
+name = "Anchor-7";
+pos = (262.739,-295.574);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = NameMe.65541;
+},
+{
+pos = (166.169,922.69);
+ref = arabic_dot;
+}
+);
+width = 599;
+}
+);
+}

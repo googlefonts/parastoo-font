@@ -1,0 +1,28 @@
+{
+glyphname = "feh-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (1534.54,1458.61);
+},
+{
+name = "Anchor-7";
+pos = (876.157,-267.146);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (1418.1,1058.73);
+ref = arabic_dot;
+},
+{
+ref = "fehDotless-ar.fina";
+}
+);
+width = 1976;
+}
+);
+}

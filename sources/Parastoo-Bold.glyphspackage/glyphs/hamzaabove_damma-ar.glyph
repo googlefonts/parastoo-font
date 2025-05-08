@@ -1,0 +1,37 @@
+{
+glyphname = "hamzaabove_damma-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (506.908,2107.54);
+},
+{
+name = "_Anchor-1";
+pos = (456.594,956.115);
+},
+{
+name = "_Anchor-10";
+pos = (456.594,956.115);
+},
+{
+name = "_Anchor-9";
+pos = (456.594,956.115);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-26.408,231.421);
+ref = "damma-ar";
+},
+{
+pos = (-108.882,-724.762);
+ref = "hamzaabove-ar";
+}
+);
+width = 10;
+}
+);
+}

@@ -1,0 +1,24 @@
+{
+glyphname = "keheh-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (183.184,1443.47);
+},
+{
+name = "Anchor-7";
+pos = (314.687,-250.871);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "kaf-ar.medi";
+}
+);
+width = 1251;
+}
+);
+}

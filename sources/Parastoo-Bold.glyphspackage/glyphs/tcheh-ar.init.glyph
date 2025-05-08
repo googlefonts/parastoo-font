@@ -1,0 +1,28 @@
+{
+glyphname = "tcheh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (574.444,1175.68);
+},
+{
+name = "Anchor-7";
+pos = (694.848,-790.101);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (371.169,-448.507);
+ref = arabic_3dots_a;
+},
+{
+ref = "hah-ar.init";
+}
+);
+width = 1472;
+}
+);
+}

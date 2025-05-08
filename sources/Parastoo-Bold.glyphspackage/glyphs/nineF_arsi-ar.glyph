@@ -1,0 +1,15 @@
+{
+glyphname = "nineFarsi-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "nine-ar";
+}
+);
+width = 1057;
+}
+);
+unicode = 1785;
+}

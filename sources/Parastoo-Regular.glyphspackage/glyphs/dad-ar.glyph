@@ -1,0 +1,29 @@
+{
+glyphname = "dad-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (2037.94,1484.14);
+},
+{
+name = "Anchor-7";
+pos = (636.427,-790.57);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (1931.03,1054.87);
+ref = arabic_dot;
+},
+{
+ref = "sad-ar";
+}
+);
+width = 2570;
+}
+);
+unicode = 1590;
+}

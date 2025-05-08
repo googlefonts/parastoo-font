@@ -1,0 +1,18 @@
+{
+glyphname = "veh-ar.fina";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1234,974);
+ref = arabic_3dots;
+},
+{
+ref = "fehDotless-ar.fina";
+}
+);
+width = 1966;
+}
+);
+}

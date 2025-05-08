@@ -1,0 +1,28 @@
+{
+glyphname = "yeh-ar.fina.compact";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (741.6,605.22);
+},
+{
+name = "Anchor-7";
+pos = (727,-1086);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (400,-965);
+ref = arabic_2dots;
+},
+{
+ref = "yehFarsi-ar.fina.compact";
+}
+);
+width = 1487;
+}
+);
+}

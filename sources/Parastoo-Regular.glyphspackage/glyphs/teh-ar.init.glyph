@@ -1,0 +1,28 @@
+{
+glyphname = "teh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (280.357,1352.76);
+},
+{
+name = "Anchor-7";
+pos = (271.739,-223.574);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "alefMaksura-ar.init";
+},
+{
+pos = (-9.761,922.69);
+ref = arabic_2dots;
+}
+);
+width = 666;
+}
+);
+}

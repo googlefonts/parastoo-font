@@ -1,0 +1,28 @@
+{
+glyphname = "qaf-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (495.102,1561.72);
+},
+{
+name = "Anchor-7";
+pos = (476.642,-226.133);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (201,1135.48);
+ref = arabic_2dots;
+},
+{
+ref = "fehDotless-ar.medi";
+}
+);
+width = 965;
+}
+);
+}

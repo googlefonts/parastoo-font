@@ -1,0 +1,29 @@
+{
+glyphname = "thal-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (458.908,1683.39);
+},
+{
+name = "Anchor-7";
+pos = (474.662,-216.64);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (350.775,1274.9);
+ref = arabic_dot;
+},
+{
+ref = "dal-ar";
+}
+);
+width = 1047;
+}
+);
+unicode = 1584;
+}

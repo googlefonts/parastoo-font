@@ -1,0 +1,16 @@
+{
+glyphname = NameMe.305;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (2.606,-1.516);
+ref = "alef-ar";
+scale = (0.99,0.91);
+}
+);
+width = 464;
+}
+);
+}

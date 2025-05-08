@@ -1,0 +1,28 @@
+{
+glyphname = "jeem-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (574.444,1175.68);
+},
+{
+name = "Anchor-7";
+pos = (679.265,-629.483);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (561.183,-479.282);
+ref = arabic_dot;
+},
+{
+ref = "hah-ar.init";
+}
+);
+width = 1472;
+}
+);
+}

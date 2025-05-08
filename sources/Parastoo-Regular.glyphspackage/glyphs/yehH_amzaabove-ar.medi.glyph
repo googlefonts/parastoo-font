@@ -1,0 +1,28 @@
+{
+glyphname = "yehHamzaabove-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (399.608,1326.9);
+},
+{
+name = "Anchor-7";
+pos = (314.761,-234.693);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "alefMaksura-ar.medi";
+},
+{
+pos = (3.732,-1159.56);
+ref = "highhamza-ar";
+}
+);
+width = 793;
+}
+);
+}

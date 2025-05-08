@@ -1,0 +1,36 @@
+{
+glyphname = "kasra-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (385,1535);
+},
+{
+name = "Anchor-7";
+pos = (385,-391);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (524,0);
+ref = "kashida-ar";
+},
+{
+pos = (257,0);
+ref = "kashida-ar";
+},
+{
+ref = "kashida-ar";
+},
+{
+pos = (-170,-76);
+ref = "kasra-ar";
+}
+);
+width = 769;
+}
+);
+}

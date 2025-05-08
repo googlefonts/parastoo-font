@@ -1,0 +1,37 @@
+{
+glyphname = "fathatan_shadda-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-1";
+pos = (493.368,1813.01);
+},
+{
+name = "_Anchor-1";
+pos = (549.238,936.851);
+},
+{
+name = "_Anchor-10";
+pos = (549.238,936.851);
+},
+{
+name = "_Anchor-9";
+pos = (549.238,936.851);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-74.62,-55.118);
+ref = "shadda-ar";
+},
+{
+pos = (-35.62,-206.789);
+ref = "fathatan-ar";
+}
+);
+width = 4;
+}
+);
+}

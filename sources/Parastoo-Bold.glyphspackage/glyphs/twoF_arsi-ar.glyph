@@ -1,0 +1,15 @@
+{
+glyphname = "twoFarsi-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "two-ar";
+}
+);
+width = 1088;
+}
+);
+unicode = 1778;
+}

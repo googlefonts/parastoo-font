@@ -1,0 +1,25 @@
+{
+glyphname = "hehDoachashmee-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (567.108,1610.36);
+},
+{
+name = "Anchor-7";
+pos = (532.314,-225.487);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "heh-ar.init";
+}
+);
+width = 1221;
+}
+);
+unicode = 1726;
+}

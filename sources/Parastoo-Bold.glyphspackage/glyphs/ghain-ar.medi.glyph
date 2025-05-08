@@ -1,0 +1,28 @@
+{
+glyphname = "ghain-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (556.603,1433.33);
+},
+{
+name = "Anchor-7";
+pos = (563.281,-237.563);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (451.155,999.68);
+ref = arabic_dot;
+},
+{
+ref = "ain-ar.medi";
+}
+);
+width = 1059;
+}
+);
+}

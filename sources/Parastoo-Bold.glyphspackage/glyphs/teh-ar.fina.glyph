@@ -1,0 +1,28 @@
+{
+glyphname = "teh-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (919.337,1260.91);
+},
+{
+name = "Anchor-7";
+pos = (876.157,-267.146);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (635.043,818.437);
+ref = arabic_2dots;
+},
+{
+ref = "behDotless-ar.fina";
+}
+);
+width = 1968;
+}
+);
+}

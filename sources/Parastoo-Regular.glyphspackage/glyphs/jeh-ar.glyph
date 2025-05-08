@@ -1,0 +1,29 @@
+{
+glyphname = "jeh-ar";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (435.264,1442.37);
+},
+{
+name = "Anchor-7";
+pos = (341.096,-713.978);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (140.986,792.423);
+ref = arabic_3dots;
+},
+{
+ref = "reh-ar";
+}
+);
+width = 794;
+}
+);
+unicode = 1688;
+}

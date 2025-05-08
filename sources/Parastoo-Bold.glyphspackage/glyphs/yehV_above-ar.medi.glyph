@@ -1,0 +1,18 @@
+{
+glyphname = "yehVabove-ar.medi";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-118,-622);
+ref = "vabove-ar";
+},
+{
+ref = "yehFarsi-ar.medi";
+}
+);
+width = 793;
+}
+);
+}

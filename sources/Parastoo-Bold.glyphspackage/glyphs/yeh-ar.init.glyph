@@ -1,0 +1,24 @@
+{
+glyphname = "yeh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = "Anchor-10";
+pos = (327.503,1047.27);
+},
+{
+name = "Anchor-7";
+pos = (252.913,-662.267);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = "yehFarsi-ar.init";
+}
+);
+width = 669;
+}
+);
+}

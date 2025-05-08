@@ -1,0 +1,15 @@
+{
+glyphname = "threeFarsi-ar";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "three-ar";
+}
+);
+width = 1275;
+}
+);
+unicode = 1779;
+}
