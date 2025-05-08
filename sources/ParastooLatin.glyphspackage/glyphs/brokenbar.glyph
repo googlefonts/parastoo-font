@@ -1,0 +1,69 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,789,l),
+(317,789,l),
+(325,1556,l),
+(172,1556,l),
+(172,1556,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(178,-555,l),
+(317,-555,l),
+(325,207,l),
+(172,207,l),
+(172,207,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 41 values pushed */
+0 0 0 1 93 4 1 1 1 34 75 5 1 3 3 2 93 0 2 2 37 2 76 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 8 21
+CALL[ ]	/* CallFunction */";
+};
+width = 498;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,767,l),
+(361,767,l),
+(369,1557,l),
+(138,1557,l),
+(138,1557,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(144,-555,l),
+(361,-555,l),
+(369,231,l),
+(138,231,l),
+(138,231,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 41 values pushed */
+0 0 0 1 93 4 1 1 1 34 75 5 1 3 3 2 93 0 2 2 37 2 76 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 8 21
+CALL[ ]	/* CallFunction */";
+};
+width = 507;
+}
+);
+note = brokenbar;
+unicode = 166;
+}

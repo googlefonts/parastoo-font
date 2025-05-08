@@ -1,0 +1,61 @@
+{
+glyphname = uni02C9;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(565,1349,l),
+(22,1349,l),
+(22,1226,l),
+(565,1234,l),
+(565,1234,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 85 0 0 0 1 93 2 1 1 0 1 77 0 0 0 3 0 3 17 3 8 21
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 600;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(604,1367,l),
+(22,1367,l),
+(22,1171,l),
+(604,1178,l),
+(604,1178,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 85 0 0 0 1 93 2 1 1 0 1 77 0 0 0 3 0 3 17 3 8 21
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 600;
+}
+);
+note = uni02C9;
+unicode = 713;
+}

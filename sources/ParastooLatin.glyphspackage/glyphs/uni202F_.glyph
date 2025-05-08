@@ -1,0 +1,15 @@
+{
+glyphname = uni202F;
+layers = (
+{
+layerId = m01;
+width = 148;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+width = 148;
+}
+);
+note = uni202F;
+unicode = 8239;
+}

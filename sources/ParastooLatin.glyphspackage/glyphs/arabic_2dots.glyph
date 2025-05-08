@@ -1,0 +1,68 @@
+{
+glyphname = arabic_2dots;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,-7,l),
+(592,125,l),
+(460,257,l),
+(328,125,l),
+(328,125,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(163,-7,l),
+(295,125,l),
+(163,257,l),
+(31,125,l),
+(31,125,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+6 4 2 0 2 48
+CALL[ ]	/* CallFunction */";
+};
+width = 622;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-13,125,l),
+(145,-34,l),
+(304,125,l),
+(145,284,l),
+(145,284,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(637,125,l),
+(478,284,l),
+(320,125,l),
+(478,-34,l),
+(478,-34,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+7 5 3 1 2 48
+CALL[ ]	/* CallFunction */";
+};
+width = 622;
+}
+);
+note = arabic_2dots;
+}

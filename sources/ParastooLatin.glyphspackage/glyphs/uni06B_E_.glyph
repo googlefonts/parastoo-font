@@ -1,0 +1,47 @@
+{
+glyphname = uni06BE;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (532,-225);
+},
+{
+name = top;
+pos = (567,1610);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uniFEEB;
+}
+);
+width = 1221;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (532,-225);
+},
+{
+name = top;
+pos = (567,1610);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+ref = uniFEEB;
+}
+);
+width = 1221;
+}
+);
+note = uni06BE;
+unicode = 1726;
+}

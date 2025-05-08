@@ -1,0 +1,91 @@
+{
+glyphname = uniFEF9;
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+pos = (1002,-244);
+},
+{
+name = bottom_2;
+pos = (406,-738);
+},
+{
+name = top_1;
+pos = (992,1792);
+},
+{
+name = top_2;
+pos = (157,1630);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-38,-2528);
+ref = uni0674;
+},
+{
+alignment = -1;
+ref = uniFEFB;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 1
+PUSHW[ ]	/* 1 value pushed */
+-2528
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 1254;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (1002,-244);
+},
+{
+name = bottom_2;
+pos = (406,-738);
+},
+{
+name = top_1;
+pos = (992,1792);
+},
+{
+name = top_2;
+pos = (157,1630);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+pos = (-38,-2528);
+ref = uni0674;
+},
+{
+alignment = -1;
+ref = uniFEFB;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 1
+PUSHW[ ]	/* 1 value pushed */
+-2528
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 1254;
+}
+);
+note = uniFEF9;
+unicode = 65273;
+}

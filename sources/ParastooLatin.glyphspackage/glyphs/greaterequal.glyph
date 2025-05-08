@@ -1,0 +1,76 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,106,l),
+(157,0,l),
+(1069,0,l),
+(1069,115,l),
+(1069,115,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(156,1155,l),
+(156,1024,l),
+(929,682,l),
+(156,342,l),
+(156,215,l),
+(1068,620,l),
+(1068,758,l),
+(1068,758,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 26 values pushed */
+10 9 8 7 6 5 4 7 1 72 0 1 1 0 93 0 0 0 33 0 76 17 16 2 8 22
+CALL[ ]	/* CallFunction */";
+};
+width = 1186;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,174,l),
+(134,0,l),
+(1057,0,l),
+(1057,184,l),
+(1057,184,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(134,1242,l),
+(134,1024,l),
+(771,744,l),
+(771,742,l),
+(134,462,l),
+(134,246,l),
+(1056,655,l),
+(1056,841,l),
+(1056,841,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 26 values pushed */
+11 10 9 7 6 5 4 7 1 72 0 1 1 0 93 0 0 0 33 0 76 17 16 2 8 22
+CALL[ ]	/* CallFunction */";
+};
+width = 1160;
+}
+);
+note = greaterequal;
+unicode = 8805;
+}

@@ -1,0 +1,75 @@
+{
+glyphname = uniFE9A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (876,-267);
+},
+{
+name = top;
+pos = (939,1310);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (635,703);
+ref = arabic_3dots;
+},
+{
+alignment = -1;
+ref = uni066E.fina;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 3
+PUSHW[ ]	/* 1 value pushed */
+703
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 1968;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (876,-267);
+},
+{
+name = top;
+pos = (939,1390);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+pos = (635,783);
+ref = arabic_3dots;
+},
+{
+alignment = -1;
+ref = uni066E.fina;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 3
+PUSHW[ ]	/* 1 value pushed */
+783
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 1968;
+}
+);
+note = uniFE9A;
+unicode = 65178;
+}

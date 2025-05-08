@@ -1,0 +1,83 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,1235,l),
+(252,1511,l),
+(221.333,1555,o),
+(189.5,1567,o),
+(167.5,1567,cs),
+(130.03,1567,o),
+(104.626,1542.539,o),
+(96.5,1517,cs),
+(94.167,1509.667,o),
+(93,1501.667,o),
+(93,1493,cs),
+(93,1478.333,o),
+(98,1464.333,o),
+(102,1455,cs),
+(108,1439.667,o),
+(119.667,1423,o),
+(137,1405,cs),
+(367,1188,l),
+(367,1188,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 13 values pushed */
+14 13 2 0 71 0 0 0 116 25 1 8 21
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 516;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,1241,l),
+(320,1527,ls),
+(292,1572.333,o),
+(244.667,1602,o),
+(198,1602,cs),
+(135.644,1602,o),
+(91,1546.445,o),
+(91,1492,cs),
+(91,1449.333,o),
+(113,1404.667,o),
+(145,1374,c),
+(394,1158,l),
+(394,1158,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 13 values pushed */
+13 12 2 0 71 0 0 0 116 39 1 8 21
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 578;
+}
+);
+note = grave;
+unicode = 96;
+}

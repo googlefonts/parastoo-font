@@ -1,0 +1,63 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,1208,l),
+(408,1417,l),
+(412,1417,l),
+(672,1194,l),
+(727,1260,l),
+(422,1593,l),
+(418,1593,l),
+(92,1268,l),
+(92,1268,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+3 0 1 48
+CALL[ ]	/* CallFunction */";
+};
+width = 819;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,1166,l),
+(438,1365,l),
+(440,1365,l),
+(701,1151,l),
+(789,1256,l),
+(461,1603,l),
+(440,1603,l),
+(90,1264,l),
+(90,1264,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 16 values pushed */
+7 6 4 3 2 5 0 71 0 0 0 116 16 1 8 21
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 879;
+}
+);
+note = circumflex;
+unicode = 710;
+}

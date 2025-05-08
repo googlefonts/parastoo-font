@@ -1,0 +1,54 @@
+{
+glyphname = arabic_gaf_bar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(787.667,2155,o),
+(782,2157.333,o),
+(770,2152,cs),
+(102,1865,l),
+(63,1766,l),
+(767,2062,l),
+(785,2139,l),
+(785,2139,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 2 1 48
+CALL[ ]	/* CallFunction */";
+};
+width = 801;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(791.667,2223,o),
+(786.667,2228.333,o),
+(774,2223,cs),
+(106,1936,l),
+(63,1816,l),
+(767,2112,l),
+(789,2207,l),
+(789,2207,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 2 1 48
+CALL[ ]	/* CallFunction */";
+};
+width = 801;
+}
+);
+note = arabic_gaf_bar;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = CR;
+layers = (
+{
+layerId = m01;
+width = 0;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+width = 0;
+}
+);
+note = CR;
+}

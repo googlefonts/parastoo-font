@@ -1,0 +1,49 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (520,1024);
+ref = exclam;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHW[ ]	/* 1 value pushed */
+1024
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 498;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (506,1024);
+ref = exclam;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHW[ ]	/* 1 value pushed */
+1024
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 486;
+}
+);
+note = exclamdown;
+unicode = 161;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = uni06F8;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uni0668;
+}
+);
+width = 1181;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+ref = uni0668;
+}
+);
+width = 1181;
+}
+);
+note = uni06F8;
+unicode = 1784;
+}

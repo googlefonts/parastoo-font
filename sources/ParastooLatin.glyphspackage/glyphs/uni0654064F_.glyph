@@ -1,0 +1,96 @@
+{
+glyphname = uni0654064F;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (456,956);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-26,231);
+ref = uni064F;
+},
+{
+alignment = -1;
+pos = (-109,-725);
+ref = uni0654;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHB[ ]	/* 1 value pushed */
+231
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+2 1
+PUSHW[ ]	/* 1 value pushed */
+-725
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+3 1
+PUSHW[ ]	/* 1 value pushed */
+-138
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 10;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (456,956);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+pos = (-26,231);
+ref = uni064F;
+},
+{
+alignment = -1;
+pos = (-109,-725);
+ref = uni0654;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 2
+PUSHB[ ]	/* 1 value pushed */
+231
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+2 1
+PUSHW[ ]	/* 1 value pushed */
+-725
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+3 1
+PUSHW[ ]	/* 1 value pushed */
+-138
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 10;
+}
+);
+note = uni0654064F;
+}

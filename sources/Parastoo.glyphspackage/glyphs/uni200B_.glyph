@@ -1,0 +1,15 @@
+{
+glyphname = uni200B;
+layers = (
+{
+layerId = m001;
+width = 0;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+width = 0;
+}
+);
+note = uni200B;
+unicode = 8203;
+}

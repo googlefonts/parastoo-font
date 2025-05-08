@@ -1,0 +1,47 @@
+{
+glyphname = uniFEED;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (576,-844);
+},
+{
+name = top;
+pos = (496,1352);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = uni0648;
+}
+);
+width = 807;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (576,-844);
+},
+{
+name = top;
+pos = (496,1352);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+ref = uni0648;
+}
+);
+width = 807;
+}
+);
+note = uniFEED;
+unicode = 65261;
+}

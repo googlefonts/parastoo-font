@@ -1,0 +1,82 @@
+{
+glyphname = uni0651064E;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (618,1138);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (30,118);
+ref = uni064E;
+},
+{
+alignment = -1;
+pos = (12,-333);
+ref = uni0651;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 1
+PUSHB[ ]	/* 1 value pushed */
+118
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+1 1
+PUSHW[ ]	/* 1 value pushed */
+-333
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 4;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (618,1138);
+}
+);
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+alignment = -1;
+pos = (30,118);
+ref = uni064E;
+},
+{
+alignment = -1;
+pos = (12,-333);
+ref = uni0651;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+0 1
+PUSHB[ ]	/* 1 value pushed */
+118
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+1 1
+PUSHW[ ]	/* 1 value pushed */
+-333
+PUSHB[ ]	/* 1 value pushed */
+51
+CALL[ ]	/* CallFunction */";
+};
+width = 4;
+}
+);
+note = uni0651064E;
+}

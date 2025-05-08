@@ -1,0 +1,62 @@
+{
+glyphname = period;
+kernLeft = comma;
+kernRight = comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(469.554,1,o),
+(468.526,267,o),
+(293,267,cs),
+(218.333,267,o),
+(158,207.667,o),
+(158,133,cs),
+(158,61.023,o),
+(219.781,1,o),
+(293,1,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 16 values pushed */
+0 1 1 0 95 0 0 0 33 0 76 37 34 2 8 22
+CALL[ ]	/* CallFunction */";
+};
+width = 586;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(446,237,o),
+(377,303,o),
+(293,303,cs),
+(207.667,303,o),
+(141,235.333,o),
+(141,150,cs),
+(141,70,o),
+(211.667,2,o),
+(293,2,cs),
+(377,2,o),
+(446,70.333,o),
+(446,153,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 16 values pushed */
+0 1 1 0 95 0 0 0 33 0 76 36 34 2 8 22
+CALL[ ]	/* CallFunction */";
+};
+width = 586;
+}
+);
+note = period;
+unicode = 46;
+}

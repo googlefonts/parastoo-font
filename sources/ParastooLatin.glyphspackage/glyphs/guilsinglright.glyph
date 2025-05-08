@@ -1,0 +1,59 @@
+{
+glyphname = guilsinglright;
+kernLeft = guillemotright;
+kernRight = guillemotright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,1059,l),
+(498,573,l),
+(498,569,l),
+(94,51,l),
+(158,-14,l),
+(719,561,l),
+(719,569,l),
+(164,1124,l),
+(164,1124,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+7 2 1 48
+CALL[ ]	/* CallFunction */";
+};
+width = 784;
+},
+{
+layerId = "01037D14-118B-4CC1-B98A-141C2A413BDA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(67,1020,l),
+(441,564,l),
+(441,562,l),
+(67,80,l),
+(180,-33,l),
+(736,537,l),
+(736,581,l),
+(184,1133,l),
+(184,1133,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+7 2 1 48
+CALL[ ]	/* CallFunction */";
+};
+width = 774;
+}
+);
+note = guilsinglright;
+unicode = 8250;
+}
