@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "zain-ar";
 kernLeft = "reh-ar";
 kernRight = "reh-ar";

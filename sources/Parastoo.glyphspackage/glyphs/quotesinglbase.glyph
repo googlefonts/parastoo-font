@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = quotesinglbase;
 kernLeft = period;
 kernRight = period;

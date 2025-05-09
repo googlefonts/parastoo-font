@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "ae-ar";
 kernRight = "hah-ar";
 layers = (

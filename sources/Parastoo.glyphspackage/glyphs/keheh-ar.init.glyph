@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "keheh-ar.init";
 kernRight = "kaf-ar.init";
 layers = (

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "zain-ar.fina";
 kernLeft = "reh-ar";
 layers = (

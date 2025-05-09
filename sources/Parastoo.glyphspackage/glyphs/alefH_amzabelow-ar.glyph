@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "alefHamzabelow-ar";
 kernLeft = "alef-ar";
 kernRight = "alef-ar";

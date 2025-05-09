@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Uhungarumlaut;
 kernLeft = U;
 kernRight = U;

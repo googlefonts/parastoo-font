@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "zah-ar";
 kernRight = "tah-ar.init";
 layers = (

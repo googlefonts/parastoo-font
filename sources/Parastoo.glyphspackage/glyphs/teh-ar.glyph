@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "teh-ar";
 kernRight = "bowl-ar.init";
 layers = (

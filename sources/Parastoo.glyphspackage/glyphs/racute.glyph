@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = racute;
 kernLeft = n;
 kernRight = r;

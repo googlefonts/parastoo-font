@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "qaf-ar.init";
 kernRight = "feh-ar.init";
 layers = (

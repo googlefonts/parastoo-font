@@ -1,4 +1,5 @@
 {
+color = 2;
 glyphname = tugrik;
 kernLeft = T;
 kernRight = T;

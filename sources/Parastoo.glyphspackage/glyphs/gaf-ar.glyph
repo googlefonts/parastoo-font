@@ -1,4 +1,5 @@
 {
+color = 2;
 glyphname = "gaf-ar";
 kernRight = "kaf-ar.init";
 layers = (

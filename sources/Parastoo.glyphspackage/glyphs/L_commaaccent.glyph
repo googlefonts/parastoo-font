@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Lcommaaccent;
 kernLeft = I;
 kernRight = L;

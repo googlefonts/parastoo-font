@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "beh-ar.init";
 kernRight = "bowl-ar.init.onedotbelow";
 layers = (

@@ -1,4 +1,5 @@
 {
+color = 2;
 glyphname = lslash;
 kernLeft = h;
 kernRight = l;

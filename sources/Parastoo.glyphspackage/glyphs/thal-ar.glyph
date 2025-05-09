@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "thal-ar";
 kernRight = "dal-ar";
 layers = (
