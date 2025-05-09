@@ -1,0 +1,24 @@
+{
+glyphname = ring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 651;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 733;
+}
+);
+unicode = 730;
+}

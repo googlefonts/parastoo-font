@@ -1,0 +1,36 @@
+{
+glyphname = cedilla;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (299,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 598;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (244,0);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 666;
+}
+);
+unicode = 184;
+}

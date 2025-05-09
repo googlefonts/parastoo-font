@@ -1,0 +1,25 @@
+{
+glyphname = comma.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (70,0);
+ref = comma;
+}
+);
+width = 666;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (76,0);
+ref = comma;
+}
+);
+width = 666;
+}
+);
+}

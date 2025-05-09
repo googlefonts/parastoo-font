@@ -1,13 +1,12 @@
 {
 glyphname = quotesinglbase;
-kernLeft = comma;
-kernRight = comma;
+kernLeft = period;
+kernRight = period;
 layers = (
 {
 layerId = m001;
 shapes = (
 {
-alignment = -1;
 ref = comma;
 }
 );
@@ -17,13 +16,11 @@ width = 518;
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
 shapes = (
 {
-alignment = -1;
 ref = comma;
 }
 );
 width = 512;
 }
 );
-note = quotesinglbase;
 unicode = 8218;
 }

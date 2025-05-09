@@ -1,0 +1,24 @@
+{
+glyphname = kelvin;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = K;
+}
+);
+width = 1399;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = K;
+}
+);
+width = 1458;
+}
+);
+unicode = 8490;
+}

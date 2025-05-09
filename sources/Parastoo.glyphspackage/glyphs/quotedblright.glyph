@@ -7,67 +7,30 @@ layers = (
 layerId = m001;
 shapes = (
 {
-alignment = -1;
 pos = (-84,1350);
 ref = comma;
 },
 {
-alignment = -1;
 pos = (276,1350);
 ref = comma;
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 2 values pushed */
-0 1
-PUSHW[ ]	/* 1 value pushed */
-1350
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-1 1
-PUSHW[ ]	/* 1 value pushed */
-1350
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */";
-};
 width = 715;
 },
 {
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
 shapes = (
 {
-alignment = -1;
 pos = (-47,1276);
 ref = comma;
 },
 {
-alignment = -1;
-pos = (363,1276);
+pos = (362,1276);
 ref = comma;
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 2 values pushed */
-0 1
-PUSHW[ ]	/* 1 value pushed */
-1276
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */
-PUSHB[ ]	/* 2 values pushed */
-1 1
-PUSHW[ ]	/* 1 value pushed */
-1276
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */";
-};
-width = 841;
+width = 842;
 }
 );
-note = quotedblright;
 unicode = 8221;
 }

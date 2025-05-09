@@ -1,0 +1,25 @@
+{
+glyphname = tenge.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (12,0);
+ref = tenge;
+}
+);
+width = 1331;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (2,0);
+ref = tenge;
+}
+);
+width = 1331;
+}
+);
+}

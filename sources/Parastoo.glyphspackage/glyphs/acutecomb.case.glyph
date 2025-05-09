@@ -1,0 +1,41 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (184,1434);
+}
+);
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (569,0);
+ref = gravecomb.case;
+scale = (-1,1);
+}
+);
+width = 594;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (211,1434);
+}
+);
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+alignment = -1;
+pos = (569,0);
+ref = gravecomb.case;
+scale = (-1,1);
+}
+);
+width = 600;
+}
+);
+}

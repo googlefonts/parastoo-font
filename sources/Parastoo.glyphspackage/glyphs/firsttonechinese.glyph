@@ -1,0 +1,28 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (-70,-86);
+ref = macron;
+}
+);
+width = 600;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+alignment = -1;
+pos = (-70,-115);
+ref = macron;
+}
+);
+width = 600;
+}
+);
+unicode = 713;
+}

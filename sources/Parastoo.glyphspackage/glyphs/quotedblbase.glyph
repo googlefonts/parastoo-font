@@ -1,17 +1,15 @@
 {
 glyphname = quotedblbase;
-kernLeft = comma;
-kernRight = comma;
+kernLeft = period;
+kernRight = period;
 layers = (
 {
 layerId = m001;
 shapes = (
 {
-alignment = -1;
 ref = comma;
 },
 {
-alignment = -1;
 pos = (360,0);
 ref = comma;
 }
@@ -22,11 +20,9 @@ width = 879;
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
 shapes = (
 {
-alignment = -1;
 ref = comma;
 },
 {
-alignment = -1;
 pos = (410,0);
 ref = comma;
 }
@@ -34,6 +30,5 @@ ref = comma;
 width = 922;
 }
 );
-note = quotedblbase;
 unicode = 8222;
 }

@@ -12,16 +12,10 @@ nodes = (
 (1067,592,l),
 (1067,727,l),
 (135,727,l),
-(135,584,l),
 (135,584,l)
 );
 }
 );
-userData = {
-assembly = "NPUSHB[ ]	/* 21 values pushed */
-0 0 1 1 0 85 0 0 0 1 93 0 1 0 1 77 17 16 2 8 22
-CALL[ ]	/* CallFunction */";
-};
 width = 1208;
 },
 {
@@ -31,21 +25,14 @@ shapes = (
 closed = 1;
 nodes = (
 (1047,539,l),
-(1047,753,l),
-(106,753,l),
-(106,532,l),
+(1047,754,l),
+(106,754,l),
 (106,532,l)
 );
 }
 );
-userData = {
-assembly = "NPUSHB[ ]	/* 21 values pushed */
-0 0 1 1 0 85 0 0 0 1 93 0 1 0 1 77 17 16 2 8 22
-CALL[ ]	/* CallFunction */";
-};
 width = 1153;
 }
 );
-note = endash;
 unicode = 8211;
 }

@@ -1,0 +1,41 @@
+{
+glyphname = caron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 819;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,1350,l),
+(408,1350,l),
+(147,1573,l),
+(92,1507,l),
+(397,1174,l),
+(401,1174,l),
+(727,1518,l),
+(676,1577,l)
+);
+}
+);
+};
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 868;
+}
+);
+unicode = 711;
+}

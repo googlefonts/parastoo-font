@@ -1,0 +1,56 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 797;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(207,1219,l),
+(147,1255,l),
+(262,1518,ls),
+(297,1593,o),
+(350,1599,o),
+(389,1573,cs),
+(422,1550,o),
+(434,1501,o),
+(385,1438,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(397,1204,l),
+(358,1257,l),
+(606,1528,ls),
+(643,1567,o),
+(702,1573,o),
+(731,1532,cs),
+(760,1493,o),
+(737,1438,o),
+(696,1409,cs)
+);
+}
+);
+};
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 877;
+}
+);
+unicode = 733;
+}

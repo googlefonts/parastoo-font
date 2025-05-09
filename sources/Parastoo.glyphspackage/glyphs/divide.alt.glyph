@@ -1,0 +1,33 @@
+{
+glyphname = divide.alt;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (20,123);
+ref = period;
+},
+{
+pos = (20,825);
+ref = period;
+}
+);
+width = 541;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (49,123);
+ref = period;
+},
+{
+pos = (49,825);
+ref = period;
+}
+);
+width = 575;
+}
+);
+}

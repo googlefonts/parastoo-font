@@ -1,0 +1,72 @@
+{
+glyphname = tugrik;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (491,366);
+},
+{
+angle = 90;
+pos = (363,369);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1016,856,l),
+(1016,942,l),
+(301,737,l),
+(301,649,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1016,590,l),
+(1016,676,l),
+(301,471,l),
+(301,383,l)
+);
+},
+{
+ref = T;
+}
+);
+width = 1311;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1079,846,l),
+(1079,991,l),
+(246,768,l),
+(246,616,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1079,551,l),
+(1079,696,l),
+(246,475,l),
+(246,322,l)
+);
+},
+{
+ref = T;
+}
+);
+width = 1331;
+}
+);
+unicode = 8366;
+}

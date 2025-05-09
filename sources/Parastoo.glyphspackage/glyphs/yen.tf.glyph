@@ -1,0 +1,25 @@
+{
+glyphname = yen.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-57,0);
+ref = yen;
+}
+);
+width = 1331;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (-76,0);
+ref = yen;
+}
+);
+width = 1331;
+}
+);
+}

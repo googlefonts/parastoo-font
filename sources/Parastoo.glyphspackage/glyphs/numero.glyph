@@ -1,0 +1,57 @@
+{
+glyphname = numero;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(864,592,l),
+(864,727,l),
+(137,727,l),
+(137,584,l)
+);
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1448,0);
+ref = ordmasculine;
+},
+{
+pos = (1391,-102);
+ref = hyphen;
+}
+);
+width = 2372;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1532,0);
+ref = ordmasculine;
+},
+{
+pos = (1450,-102);
+ref = hyphen;
+}
+);
+width = 2408;
+}
+);
+unicode = 8470;
+}

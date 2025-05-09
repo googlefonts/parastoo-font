@@ -1,0 +1,25 @@
+{
+glyphname = semicolon.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (61,0);
+ref = semicolon;
+}
+);
+width = 666;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (63,0);
+ref = semicolon;
+}
+);
+width = 666;
+}
+);
+}

@@ -1,7 +1,7 @@
 {
 glyphname = quotesingle;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = quotesingle;
+kernRight = quotesingle;
 layers = (
 {
 layerId = m001;
@@ -9,19 +9,13 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(299,1467,l),
-(127,1467,l),
-(146,1006,l),
 (281,1006,l),
-(281,1006,l)
+(299,1466,l),
+(127,1466,l),
+(145,1006,l)
 );
 }
 );
-userData = {
-assembly = "NPUSHB[ ]	/* 22 values pushed */
-2 1 1 1 0 93 0 0 0 32 1 76 0 0 0 3 0 3 17 3 8 21
-CALL[ ]	/* CallFunction */";
-};
 width = 426;
 },
 {
@@ -30,22 +24,15 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(299,1467,l),
-(87,1467,l),
-(106,1006,l),
 (281,1006,l),
-(281,1006,l)
+(299,1466,l),
+(86,1466,l),
+(106,1006,l)
 );
 }
 );
-userData = {
-assembly = "NPUSHB[ ]	/* 22 values pushed */
-2 1 1 1 0 93 0 0 0 32 1 76 0 0 0 3 0 3 17 3 8 21
-CALL[ ]	/* CallFunction */";
-};
-width = 386;
+width = 385;
 }
 );
-note = quotesingle;
 unicode = 39;
 }

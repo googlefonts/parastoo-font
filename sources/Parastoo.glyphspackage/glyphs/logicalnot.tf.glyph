@@ -1,0 +1,25 @@
+{
+glyphname = logicalnot.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (135,0);
+ref = logicalnot;
+}
+);
+width = 1331;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (131,0);
+ref = logicalnot;
+}
+);
+width = 1331;
+}
+);
+}

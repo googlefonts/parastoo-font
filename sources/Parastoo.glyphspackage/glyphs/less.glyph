@@ -7,23 +7,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(982,174,l),
-(982,305,l),
+(981,305,l),
 (209,647,l),
-(982,987,l),
-(982,1114,l),
+(981,987,l),
+(981,1114,l),
 (70,709,l),
 (70,571,l),
-(70,571,l)
+(981,174,l)
 );
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 4 values pushed */
-5 1 1 48
-CALL[ ]	/* CallFunction */";
-};
-width = 1110;
+width = 1085;
 },
 {
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
@@ -31,26 +25,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1001,146,l),
-(1001,364,l),
-(364,644,l),
-(364,646,l),
-(1001,926,l),
-(1001,1142,l),
-(79,733,l),
-(79,547,l),
-(79,547,l)
+(1004,354,l),
+(346,645,l),
+(1004,936,l),
+(1004,1141,l),
+(82,731,l),
+(82,549,l),
+(1004,147,l)
 );
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 4 values pushed */
-6 1 1 48
-CALL[ ]	/* CallFunction */";
-};
-width = 1128;
+width = 1085;
 }
 );
-note = less;
+metricWidth = plus;
 unicode = 60;
 }

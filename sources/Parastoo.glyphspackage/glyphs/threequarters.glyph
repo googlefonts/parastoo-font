@@ -1,67 +1,45 @@
 {
 glyphname = threequarters;
+kernRight = "45";
 layers = (
 {
 layerId = m001;
 shapes = (
 {
-alignment = -1;
-pos = (387,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (-39,0);
 ref = threesuperior;
 },
 {
 alignment = -1;
-pos = (951,-625);
-ref = uni2074;
+pos = (377,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (883,-625);
+ref = foursuperior;
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 2 values pushed */
-2 2
-PUSHW[ ]	/* 1 value pushed */
--625
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */";
-};
-width = 1649;
+width = 1630;
 },
 {
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
 shapes = (
 {
-alignment = -1;
-pos = (450,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (16,0);
 ref = threesuperior;
 },
 {
 alignment = -1;
-pos = (969,-625);
-ref = uni2074;
+pos = (377,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (883,-625);
+ref = foursuperior;
 }
 );
-userData = {
-assembly = "PUSHB[ ]	/* 2 values pushed */
-2 2
-PUSHW[ ]	/* 1 value pushed */
--625
-PUSHB[ ]	/* 1 value pushed */
-51
-CALL[ ]	/* CallFunction */";
-};
-width = 1755;
+width = 1671;
 }
 );
-note = threequarters;
 unicode = 190;
 }

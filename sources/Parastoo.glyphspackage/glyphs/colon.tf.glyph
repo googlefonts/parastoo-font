@@ -1,0 +1,25 @@
+{
+glyphname = colon.tf;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (76,0);
+ref = colon;
+}
+);
+width = 666;
+},
+{
+layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
+shapes = (
+{
+pos = (80,0);
+ref = colon;
+}
+);
+width = 666;
+}
+);
+}
