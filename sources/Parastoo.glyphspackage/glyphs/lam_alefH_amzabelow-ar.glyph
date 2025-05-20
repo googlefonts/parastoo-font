@@ -5,12 +5,20 @@ layers = (
 {
 anchors = (
 {
-name = "Anchor-6";
+name = bottom_1;
 pos = (1002.48,-244.591);
 },
 {
-name = "Anchor-9";
-pos = (157.56,1630.76);
+name = bottom_2;
+pos = (406.615,-738.806);
+},
+{
+name = top_1;
+pos = (967,1658);
+},
+{
+name = top_2;
+pos = (223.848,1607.87);
 }
 );
 layerId = m001;
@@ -28,12 +36,20 @@ width = 1254;
 {
 anchors = (
 {
-name = "Anchor-6";
-pos = (1002.48,-244.591);
+name = bottom_1;
+pos = (1000.99,-196.011);
 },
 {
-name = "Anchor-9";
-pos = (157.56,1630.76);
+name = bottom_2;
+pos = (406.615,-738.806);
+},
+{
+name = top_1;
+pos = (967,1658);
+},
+{
+name = top_2;
+pos = (223.848,1607.87);
 }
 );
 layerId = "D346AEB9-DD6D-429C-AFEE-90B4948468D3";
