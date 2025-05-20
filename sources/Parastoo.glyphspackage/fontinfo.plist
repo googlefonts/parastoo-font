@@ -41,6 +41,7 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem arab dflt;
+languagesystem arab ARA;
 
 languagesystem latn dflt;
 languagesystem latn AZE;
@@ -131,6 +132,18 @@ lookup ccmp_arab_1;
 
 script latn;
 lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+code = "# Custom feature for Persian
+
+lookupflag 0;
+sub heh-ar hamzaabove-ar by hehHamzaabove-ar; # Persian default hehHamza
+
+script arab;
+language ARA;
+sub hehHamzaabove-ar by heh-ar hamzaabove-ar; # Undo previous rule for explicit Arabic
 ";
 tag = ccmp;
 },
