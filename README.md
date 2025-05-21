@@ -1,63 +1,11 @@
-# Parastoo-Font
-A Persian (Farsi) Font
+# Parastoo Font
 
-## توسعه این پروژه متوقف و بایگانی شده است. این موضوع شامل تمامی ابعاد پروژه از طراحی گرفته تا رفع اشکال می‌شود. قسمت ایشوهای مخزن همچنان باز است.
+While this repo is a fork of [https://github.com/rastikerdar/parastoo-font](https://github.com/rastikerdar/parastoo-font), it has been completely reworked with the intention of publication on [Google Fonts](https://github.com/rastikerdar/parastoo-font).
 
-فونت فارسی پرستو  
-[نمایش فونت - صفحه رسمی پروژه](http://rastikerdar.github.io/parastoo-font/)  
-[صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/parastoo-font/releases)  
-با تشکر از برنامه [FontForge](https://fontforge.github.io)  
-نسخه‌های مخصوص چاپ، بدون حروف لاتین و تمام ارقام فارسی درون بسته فشرده موجود می‌باشد.  
-فرآیند تولید بسته نهایی شامل انواع نسخه‌ها و فرمت‌ها توسط ابزار [fontbuilder](https://github.com/rastikerdar/fontbuilder) انجام می‌شود.
+As of May 2025, the Arabic language support of the font has not been expanded, but matched with the complete Latin set of [Lora](https://fonts.google.com/specimen/Lora?query=Lora) where previously only a small subset was included.
 
-## نمونه متن Sample:
-![Parastoo font sample](./sample.png)
+None of the original files remain in place. Please see the original repo for reference. The old Fontforge sources were turned into Glyph.app sources and the phyiscal size of the font matched to the old Parastoo binaries by adjusting both their vertical metrics as well as the UPM. 
 
-## طریقه استفاده در صفحات وب:
-<div lang="fa" dir="rtl">
-کد زیر را در قسمت style یا فایل css وارد نمایید:
-</div>
+Additionally, no kerning could be recovered from the old Fontforge sources and therefore modern-day class-based kerning was re-added to the Arabic.
 
-
-```css
-@font-face {
-  font-family: Parastoo;
-  src: url('Parastoo.eot');
-  src: url('Parastoo.eot?#iefix') format('embedded-opentype'),
-       url('Parastoo.woff2') format('woff2'),
-       url('Parastoo.woff') format('woff'),
-       url('Parastoo.ttf') format('truetype');
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: Parastoo;
-  src: url('Parastoo-Bold.eot');
-  src: url('Parastoo-Bold.eot?#iefix') format('embedded-opentype'),
-       url('Parastoo-Bold.woff2') format('woff2'),
-       url('Parastoo-Bold.woff') format('woff'),
-       url('Parastoo-Bold.ttf') format('truetype');
-  font-weight: bold;
-}
-```
-
-## Install
-#### Arch Linux
-
-Arch user's could use [parastoo-fonts](https://aur.archlinux.org/packages/parastoo-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install parastoo font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
-
-```shell
-pacaur -S parastoo-fonts
-```
-
-
-#### GNU/Linux
-gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install parastoo font.
-
-```
-kateb install parastoo
-or
-kateb update parastoo
-```
-
-2016 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See the `LICENSE` file.
+As a result, the new fonts match the appearance of the original fonts as close as possible, but **must not** be regarded as completely indentical.
