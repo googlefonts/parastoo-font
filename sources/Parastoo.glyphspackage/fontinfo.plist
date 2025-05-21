@@ -508,7 +508,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2350;
+value = 2635;
 },
 {
 name = typoDescender;
@@ -520,7 +520,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 2350;
+value = 2635;
 },
 {
 name = hheaDescender;
@@ -624,7 +624,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2350;
+value = 2635;
 },
 {
 name = typoDescender;
@@ -636,7 +636,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 2350;
+value = 2635;
 },
 {
 name = hheaDescender;
@@ -4612,7 +4612,7 @@ value = "Saber Rastikerdar (saber.rastikerdar@gmail.com)";
 settings = {
 disablesAutomaticAlignment = 1;
 };
-unitsPerEm = 2048;
+unitsPerEm = 2727;
 userData = {
 UFOFormat = 3;
 };
