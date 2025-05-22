@@ -136,18 +136,6 @@ lookup ccmp_latn_1;
 tag = ccmp;
 },
 {
-code = "# Custom feature for Persian
-
-lookupflag 0;
-sub heh-ar hamzaabove-ar by hehHamzaabove-ar; # Persian default hehHamza
-
-script arab;
-language ARA;
-sub hehHamzaabove-ar by heh-ar hamzaabove-ar; # Undo previous rule for explicit Arabic
-";
-tag = ccmp;
-},
-{
 automatic = 1;
 code = "script latn;
 language AZE;
@@ -472,6 +460,22 @@ sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;
 sub lam_alefMadda-ar by lam_alefMadda-ar.fina;
 ";
 tag = fina;
+},
+{
+code = "# Custom feature for Persian
+
+# Persian default hehHamza
+lookupflag 0;
+sub heh-ar.fina hamzaabove-ar by hehHamzaabove-ar.fina;
+sub heh-ar hamzaabove-ar by hehHamzaabove-ar;
+
+# Undo previous rule for explicit Arabic
+script arab;
+language ARA;
+sub hehHamzaabove-ar.fina by heh-ar.fina hamzaabove-ar;
+sub hehHamzaabove-ar by heh-ar hamzaabove-ar;
+";
+tag = rlig;
 },
 {
 automatic = 1;
